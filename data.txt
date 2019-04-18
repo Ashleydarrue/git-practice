@@ -1,3 +1,4 @@
 Name: Ashley Arrue	
 Age: 21
 Favorite color: Yellow
+School: IronHack
